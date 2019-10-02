@@ -1,5 +1,5 @@
 #!/bin/sh
-#Este script se llama con una ruta a directorio con fastq, el accesion del cromosoma de referencia y opcional el accesion de los plasmidos de referencia 
+#Este script se llama con una ruta a directorio con fastq, el folder para output, el accesion del cromosoma de referencia y opcional el accesion de los plasmidos de referencia 
 #Para psudomolecula de solo cromosoma solo incluir el primer parametro
 
 # Dependencias: 
