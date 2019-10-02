@@ -14,8 +14,8 @@
 # module load samtools/1.9
 
 # CPU count
-#THREADS=$(grep -c ^processor /proc/cpuinfo)
-THREADS=4
+THREADS=$(grep -c ^processor /proc/cpuinfo)
+#THREADS=4
 MPILEUP_DEPTH=500
 # En kabre
 # raxml/8.2.12
